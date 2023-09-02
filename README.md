@@ -1,4 +1,4 @@
-# demo-transaction-api-jmete
+# demo-transaction-api-jmeter
 
 ## About this project:
 ### d-money is a demo financial related project where fake money can be transferred. In this project I have automate the d-money api using jmeter. Here I have covered folowing tasks as create new user, login, deposit, payment and withdraw money.
